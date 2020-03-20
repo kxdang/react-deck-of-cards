@@ -2,7 +2,9 @@
 
 A simple React project to draw random cards.
 
-<a href="https://kien-react-deckofcards.netlify.com/">Live Demo</a>
+<p align="center" >
+  <a href="https://kien-react-deckofcards.netlify.com/">Live Demo</a>
+</p>
 
 </p>
 
