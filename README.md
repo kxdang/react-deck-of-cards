@@ -1,8 +1,10 @@
 ## Deck Dealer
 
-A simeple React project to draw random cards.
+A simple React project to draw random cards.
 
-[](./project.png)
+[Live Demo]
+
+![](./project.png)
 
 ## What I learned:
 
