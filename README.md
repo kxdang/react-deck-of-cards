@@ -8,7 +8,7 @@ A simple React project to draw random cards.
   <a href="https://kien-react-deckofcards.netlify.com/"><img src="./project.png"></a>
 </p>
 
-## What I learned:
+## 👨‍🎓What I learned:
 
 - Understanding React lifecycle methods
 - Used axios to retrieve data from an API
