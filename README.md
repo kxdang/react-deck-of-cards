@@ -2,7 +2,7 @@
 
 A simeple React project to draw random cards.
 
-()[./project.png]
+[](./project.png)
 
 ## What I learned:
 
@@ -13,4 +13,4 @@ A simeple React project to draw random cards.
 
 ## Open source API used:
 
-(Deck of Cards)[https://deckofcardsapi.com/]
+[Deck of Cards](https://deckofcardsapi.com/)
