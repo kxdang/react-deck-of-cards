@@ -2,9 +2,11 @@
 
 A simple React project to draw random cards.
 
-[Live Demo]
+[Live Demo](https://kien-react-deckofcards.netlify.com/)
 
-![](./project.png)
+<p align="center">
+  <img src="./project.png">
+</p>
 
 ## What I learned:
 
