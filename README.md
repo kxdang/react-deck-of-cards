@@ -1,8 +1,8 @@
-## Deck Dealer
+## Deck Dealer [Demo]()
 
 A simple React project to draw random cards.
 
-###<center>[Live Demo](https://kien-react-deckofcards.netlify.com/)
+[Demo](https://kien-react-deckofcards.netlify.com/)
 
 <p align="center">
   <a href="https://kien-react-deckofcards.netlify.com/"><img src="./project.png"></a>
